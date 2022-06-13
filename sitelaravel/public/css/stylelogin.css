@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+justify-content: center;
+align-items: center;
+padding: 10px;
+display: flex;
+}
+
+
+h1{
+margin-top: 2%;
+font-family: 'Quicksand', sans-serif;
+color: #D5DEE2;
+text-align: center;
+}
+.login{
+font-size: 25px;
+font-weight: bold;
+padding:1%;
+background-color:#2b3840;
+border:solid;
+border-color: rgb(14, 224, 123);
+width: 15%;
+font-family: 'Quicksand', sans-serif;
+display:flex;
+flex-direction: column;
+text-align: center;
+}
+
+input{
+background-color: #35434c;
+font-family: 'Quicksand', sans-serif;
+}
+.mt-4{
+color:white;
+}
+.email{
+color:white;
+}
+.span{
+font-size: 14px;   
+}
+
+.coucou{
+font-size: 14px;
+text-decoration:underline;
+text-decoration-color: #21ba56;
+}
+.donthave{
+color: #D5DEE2;
+font-size: 14px;
+}

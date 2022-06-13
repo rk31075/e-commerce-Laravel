@@ -1,0 +1,55 @@
+.formulaire{
+border: 5px solid rgb(14, 224, 123);
+height: 100%;
+display:flex;
+flex-direction: column;
+background:grey;
+}
+.choose_console{
+color:rgb(14, 224, 123);
+font-weight: bold;
+font-family: 'Quicksand', sans-serif;
+font-size:  35px;
+}
+.game_name{
+color:rgb(14, 224, 123);
+font-weight: bold;
+font-family: 'Quicksand', sans-serif;
+font-size:  35px;
+
+}
+.game_image{
+color:rgb(14, 224, 123);
+font-weight: bold;
+font-family: 'Quicksand', sans-serif;
+font-size:  35px;
+
+}
+.game_price{
+color:rgb(14, 224, 123);
+font-weight: bold;
+font-family: 'Quicksand', sans-serif;
+font-size:  35px;
+ 
+}
+.game_stock{
+color:rgb(14, 224, 123);
+font-weight: bold;
+font-family: 'Quicksand', sans-serif;
+font-size:  35px;
+
+}
+.submit_button{
+text-align: center;
+
+}
+
+.game_description{
+color:rgb(14, 224, 123);
+font-weight: bold;
+font-family: 'Quicksand', sans-serif;
+font-size:  35px;
+}
+
+
+    
